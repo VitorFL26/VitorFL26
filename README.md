@@ -19,3 +19,7 @@
   <a href = "mailto:vitorleite2605@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-leite-7b9505247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<div style="display: flex; flex-direction: row;">
+<img height='180em' src="https://readmestats.999857.xyz/api?username=VitorFL26&theme=react&show_icons=true&hide_border=false&include_all_commits=false&&count_private=false" alt="VitorFL26" />
+<img height='180em' src="https://readmestats.999857.xyz/api/top-langs/?username=VitorFL26&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="VitorFL26" />
+</div>
