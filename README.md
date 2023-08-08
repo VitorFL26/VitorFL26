@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Vitor Feitosa Leite
 
-- 🌱 Hoje eu faço faculdade de Sistemas de Informações na Universidade Federal de Uberlândia
+- 🌱 Hoje eu faço faculdade de Sistemas de Informações na Universidade Federal de Uberlândia e estudo JavaScript por fora
 - 📫 Contate-me: vitorleite2605@hotmail.com
 - 😄 Pronomes: Ele/Dele
 
